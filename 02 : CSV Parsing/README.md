@@ -1,5 +1,5 @@
 
-# 02 — CSV Parsing & Variable Creation
+# CSV Parsing & Variable Creation
 > Variable Creation, Environment Validation & Constraint Matrix Processing — VSDSYNTH
 
 ![Tool](https://img.shields.io/badge/Tool-TCL-blue)
