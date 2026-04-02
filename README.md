@@ -1,4 +1,4 @@
-# Project — VLSI Design Automation Using TCL — VSDSYNTH
+# VLSI Design Automation Using TCL — VSDSYNTH
 
 > A fully automated, design-agnostic RTL-to-QoR synthesis and timing analysis framework built using TCL — integrating Yosys and OpenTimer through CSV-driven configuration, SDC constraint generation, and professional CLI reporting.
 
@@ -127,4 +127,5 @@ This project is licensed under the **GNU General Public License v3.0** — as us
 | **Program** | VSD (VLSI System Design) |
 | **LinkedIn** | [linkedin.com/in/preethamsk16](https://www.linkedin.com/in/preethamsk16) |
 | **GitHub** | [github.com/PreethamSK163](https://github.com/PreethamSK163) |
+| **Portfolio** | [preethamsk163.github.io](https://preethamsk163.github.io) |
 | **Email** | preethamsk163@gmail.com |
